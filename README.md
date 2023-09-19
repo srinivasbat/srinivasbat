@@ -10,8 +10,7 @@ I come from a background in Mechanical, and my passion for technology led me to 
 
 Here are some of the skills and technologies I've been actively developing:
 
-<img src="https://cdn.freebiesupply.com/images/thumbs/2x/linux-logo.png" width="100" height="100">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" width="100" height="100">
+<img src="https://cdn.freebiesupply.com/images/thumbs/2x/linux-logo.png" width="100" height="100"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" width="100" height="100">
 
 ## Projects
 
