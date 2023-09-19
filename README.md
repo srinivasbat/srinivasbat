@@ -10,13 +10,7 @@ I come from a background in Mechanical, and my passion for technology led me to 
 
 Here are some of the skills and technologies I've been actively developing:
 
-- **Linux Proficiency**: As someone who enjoys the power of the command line, I've become proficient in Linux system administration and configuration.
-
-- **Cloud Computing**: I've been exploring cloud platforms like Amazon Web Services (AWS) and Microsoft Azure, understanding how cloud services can transform businesses and enable scalability.
-
-- **DevOps Principles**: I'm enthusiastic about DevOps practices and tools, such as Git, Jenkins, Docker, and Ansible, to automate processes and streamline collaboration between development and operations teams.
-
-- **Scripting and Automation**: My passion for automation led me to learn scripting languages like Basic Bash scripting,
+![linux](https://e0.pxfuel.com/wallpapers/332/176/desktop-wallpaper-tux-penguin-linux-logo.jpg)
 
 ## Projects
 
