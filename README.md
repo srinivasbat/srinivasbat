@@ -10,7 +10,7 @@ I come from a background in Mechanical, and my passion for technology led me to 
 
 Here are some of the skills and technologies I've been actively developing:
 
-![linux](https://e0.pxfuel.com/wallpapers/332/176/desktop-wallpaper-tux-penguin-linux-logo.jpg)
+![linux](https://cdn.freebiesupply.com/images/thumbs/2x/linux-logo.png)
 
 ## Projects
 
