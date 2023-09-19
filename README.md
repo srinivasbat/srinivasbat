@@ -10,7 +10,7 @@ I come from a background in Mechanical, and my passion for technology led me to 
 
 Here are some of the skills and technologies I've been actively developing:
 
-<img src="https://cdn.freebiesupply.com/images/thumbs/2x/linux-logo.png" width="100" height="100"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" width="100" height="100">  <img src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png" width="100" height="100">  <img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo-2013-500x281.png" width="100" height="100"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/226px-Jenkins_logo.svg.png?20120629215426" width="100" height="100">
+<img src="https://cdn.freebiesupply.com/images/thumbs/2x/linux-logo.png" width="100" height="100"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" width="100" height="100">  <img src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png" width="100" height="100">  <img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo-2013-500x281.png" width="100" height="100"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/226px-Jenkins_logo.svg.png?20120629215426" width="100" height="100"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="100" height="100">
 
 ## Projects
 
