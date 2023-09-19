@@ -1,8 +1,8 @@
-# Self-Presentation: Srinivasan.K
+# Self-Presentation: Srinivasan.K 👨‍💻
 
 Hello, I'm Srinivasan, and I'm excited to introduce myself as an aspiring professional in the fields of Linux, AWS, Azure, and DevOps. I'm on a journey to explore and contribute to the world of cloud computing and automation.
 
-## About Me
+## About Me 
 
 I come from a background in Mechanical, and my passion for technology led me to dive deep into Linux, cloud computing, and DevOps practices. I find joy in solving complex problems and automating repetitive tasks to improve efficiency.
 
