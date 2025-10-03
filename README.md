@@ -1,35 +1,60 @@
-# Self-Presentation: Srinivasan.K 👨‍💻
+# 👨‍💻 Srinivasan K | DevOps & Cloud Engineer  
 
-Hello, I'm Srinivasan, and I'm excited to introduce myself as an aspiring professional in the fields of Linux, AWS, Azure, and DevOps. I'm on a journey to explore and contribute to the world of cloud computing and automation.
+Hi, I'm **Srinivasan**, a passionate **DevOps & Cloud Engineer** with hands-on experience in **AWS, CI/CD, Docker, Kubernetes, and automation**.  
+I love building scalable infrastructure, automating workflows, and continuously learning new cloud-native tools.  
 
-## About Me 
+---
 
-I come from a background in Mechanical, and my passion for technology led me to dive deep into Linux, cloud computing, and DevOps practices. I find joy in solving complex problems and automating repetitive tasks to improve efficiency.
+## 🛠️ Skills & Technologies  
 
-## Skills
+<p align="left">
+  <img src="https://cdn.freebiesupply.com/images/thumbs/2x/linux-logo.png" width="70" height="70" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="90" height="70" />
+  <img src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png" width="90" height="70" />
+  <img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo-2013-500x281.png" width="90" height="70" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" width="80" height="80" />
+  <img src="https://hub.datree.io/img/cicd/3.png" width="90" height="70" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" width="70" height="70" />
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="70" height="70" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" width="70" height="70" />
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="70" height="70" />
+</p>
 
-Here are some of the skills and technologies I've been actively developing:
+- **Cloud Platforms**: AWS, Azure (basic), GCP (basic)  
+- **Containers & Orchestration**: Docker, Kubernetes  
+- **CI/CD Tools**: Git, Jenkins, GitLab CI/CD, GitHub Actions, AWS CodePipeline  
+- **IaC & Automation**: Terraform (fundamentals), Bash scripting, Ansible  
+- **Monitoring & Security**: CloudWatch, WAF, Prometheus, Grafana  
+- **OS & Networking**: Linux, VPC, Load Balancers, Subnets, Security Groups  
 
-<img src="https://cdn.freebiesupply.com/images/thumbs/2x/linux-logo.png" width="100" height="100"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" width="100" height="100">  <img src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png" width="100" height="100">  <img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo-2013-500x281.png" width="100" height="100"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/226px-Jenkins_logo.svg.png?20120629215426" width="100" height="100"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="100" height="100"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1664px-Ansible_logo.svg.png" width="100" height="100">
+---
 
-## Projects
+## 📂 Sample Projects  
 
-I believe that practical experience is essential, and I've been working on several projects to apply my skills:
+- **Cloud Infrastructure Deployment** – Designed and deployed a scalable web application using **AWS EC2, RDS, and Load Balancer**.  
+- **CI/CD Pipeline** – Automated build & deployment with **Jenkins, GitHub Webhooks, Docker, and SonarQube**.  
+- **Containerization** – Deployed applications in **Docker & Kubernetes** for high availability and scalability.  
 
-- **Cloud Infrastructure Deployment**: I designed and deployed a web application on AWS, demonstrating my ability to utilize cloud resources effectively.
+---
 
-- **DevOps Automation**: I explored DevOps principles by building a CI/CD pipeline using Jenkins, Git, and Docker, showcasing my commitment to automation and continuous integration.
+## 🎓 Education  
 
-## Certifications
+- **B.E. Mechanical Engineering** – ARJ College of Engineering and Technology (2018–2022)  
 
-I've recently earned the following certifications to validate my skills:
+---
 
-- **AWS Certified CloudQuest Practitioner**: [View Badge](https://www.credly.com/badges/a38fcee6-a0ac-4a46-8771-25087fed12e3/public_url)
+## 📜 Certifications  
 
-## Connect with Me
+- **AWS Cloud Practitioner** – [View Badge](https://www.credly.com/badges/a38fcee6-a0ac-4a46-8771-25087fed12e3/public_url)  
 
-I'm open to new opportunities, collaborations, and networking. Feel free to connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/srinivasan-karthikeyan).
+---
 
-If you'd like to discuss technology, share ideas, or explore potential projects together, don't hesitate to reach out. I'm excited to continue learning and growing in the dynamic world of technology.
+## 🤝 Connect With Me  
 
-Thank you for visiting my self-presentation, and I look forward to connecting with you!
+- 🔗 [LinkedIn](https://www.linkedin.com/in/srinivasan-karthikeyan)  
+- 📧 Email: **srinivasankarthikeyan.2000@gmail.com**  
+- 🐙 [GitHub](https://github.com/srinivasbat)  
+
+---
+
+⭐️ Thanks for visiting my profile! Feel free to check out my repositories, contribute, or connect with me!  
